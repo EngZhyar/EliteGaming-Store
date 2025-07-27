@@ -33,7 +33,7 @@ justify-content: center;
 }
 h6{
 color: #E0F2F1;
-font-size: medium;
+font-size: small;
  padding-top: 10px;
  font-family: 'Poppins', 'Times New Roman';
 font-weight: 700; /* 700 = bold */
@@ -41,7 +41,7 @@ font-weight: 700; /* 700 = bold */
 }
 
 #ps5{
-font-size: large;
+font-size: small;
 padding-top: 10px;
 border: solid 1px white;
 width: 100%;

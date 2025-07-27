@@ -75,7 +75,7 @@ border-radius: 10px;
 }
 /* Game item styling */
 .game-item {
-    width: 110%;
+    width: 115%;
     border-radius: 10px;
     
     background:linear-gradient(to right, rgb(52, 52, 254) 35%, white 70%); 

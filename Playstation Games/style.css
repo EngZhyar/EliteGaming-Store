@@ -29,7 +29,7 @@ justify-content: center;
     grid-template-columns: repeat(2, 1fr); /* 4 items per row */
     gap: 20px; /* Space between the items */
     max-width: 1200px;
-    width: 100%;
+    width: 105%;
 }
 h5{
 color: #E0F2F1;
@@ -41,37 +41,41 @@ font-weight: 700; /* 700 = bold */
 }
 
 h5.first-column#ps5{
-font-size: large;
+font-size: medium;
 padding-top: 10px;
 border: 1px solid white;
 border-radius: 10px;
 }
 h5.second-column#ps5{
-    font-size: large;
+    width: 110%;
+    font-size: medium;
 padding-top: 10px;
     border: 1px solid rgb(25, 0, 247);
+     font-family: 'Poppins', 'Times New Roman';
+
 border-radius: 10px;
 
 }
 .second-column{
+        font-size: medium;
+
     color: rgb(25, 0, 247);
         text-shadow:black 5px 5px 10px;
 
 }
 
 .package{
-    width: 100%;
+    width: 85%;
     height: 100%;
 }
 /* Game item styling */
 .game-item {
-
+    width: 110%;
     border-radius: 10px;
     background:linear-gradient(to right, rgb(52, 52, 254) 35%, white 70%); 
 
 /* background:linear-gradient(to left, rgb(47, 47, 255) 25%, white 50%,  rgb(47, 47, 255) 70%);  */
 margin-top:-15px ;
-margin-left: 3px;
 padding: 3px;
     column-count: 2;
     justify-content: center;
@@ -81,7 +85,8 @@ padding: 3px;
 }
 
 img {
-    width: 100%;
+        width: 115%;
+
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);

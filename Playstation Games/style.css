@@ -45,9 +45,13 @@ font-size: medium;
 padding-top: 10px;
 border: 1px solid white;
 border-radius: 10px;
+    margin:-5px;
+
 }
 h5.second-column#ps5{
     width: 110%;
+        margin:-5px;
+
     font-size: medium;
 padding-top: 10px;
     border: 1px solid rgb(25, 0, 247);
@@ -67,11 +71,13 @@ border-radius: 10px;
 .package{
     width: 85%;
     height: 100%;
+    margin:-5px;
 }
 /* Game item styling */
 .game-item {
     width: 110%;
     border-radius: 10px;
+    
     background:linear-gradient(to right, rgb(52, 52, 254) 35%, white 70%); 
 
 /* background:linear-gradient(to left, rgb(47, 47, 255) 25%, white 50%,  rgb(47, 47, 255) 70%);  */

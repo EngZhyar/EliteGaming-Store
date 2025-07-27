@@ -29,9 +29,9 @@ justify-content: center;
     grid-template-columns: repeat(2, 1fr); /* 4 items per row */
     gap: 20px; /* Space between the items */
     max-width: 1200px;
-    width: 105%;
+    width: 100%;
 }
-h5{
+h6{
 color: #E0F2F1;
 font-size: medium;
  padding-top: 10px;
@@ -40,49 +40,32 @@ font-weight: 700; /* 700 = bold */
         text-shadow:black 5px 5px 10px;
 }
 
-h5.first-column#ps5{
-font-size: medium;
+#ps5{
+font-size: large;
 padding-top: 10px;
-border: 1px solid white;
+border: solid 1px white;
+width: 100%;
 border-radius: 10px;
-    margin:-5px;
-
 }
-h5.second-column#ps5{
-    width: 110%;
-        margin:-5px;
 
-    font-size: medium;
-padding-top: 10px;
-    border: 1px solid rgb(25, 0, 247);
-     font-family: 'Poppins', 'Times New Roman';
-
-border-radius: 10px;
-
-}
 .second-column{
-        font-size: medium;
-
-    color: rgb(25, 0, 247);
         text-shadow:black 5px 5px 10px;
 
 }
 
-
 .package{
     width: 90%;
     height: 100%;
-    margin: -40px;
+    margin: -10px;
 }
 /* Game item styling */
 .game-item {
-    width: 115%;
-    border-radius: 10px;
-    
-    background:linear-gradient(to right, rgb(52, 52, 254) 35%, white 70%); 
 
+    border-radius: 10px;
+background-color: rgb(237, 195, 5);
 /* background:linear-gradient(to left, rgb(47, 47, 255) 25%, white 50%,  rgb(47, 47, 255) 70%);  */
 margin-top:-15px ;
+margin-left: 3px;
 padding: 3px;
     column-count: 2;
     justify-content: center;
@@ -92,8 +75,7 @@ padding: 3px;
 }
 
 img {
-        width: 115%;
-
+    width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -103,7 +85,7 @@ img {
 
 .package,
 
- h5,
+ h6,
 .package img,
 .game-item
  {
@@ -112,7 +94,13 @@ img {
 
 /* Apply transform on .package hover */
 
-
+h6 :hover,
+ .game-item :hover,
+.package:hover img,
+.package:hover
+   {
+    transform: scale(1.1);
+}
 
 header{
 
@@ -132,4 +120,9 @@ background-color: rgb(234, 201, 15);
      font-family: 'Poppins', 'Times New Roman';
 font-weight: 700; /* 700 = bold */
 font-size: larger;
+}
+
+
+#logo{
+    padding: 10px;
 }

@@ -71,7 +71,7 @@ border-radius: 10px;
 .package{
     width: 85%;
     height: 100%;
-    margin:-5px;
+    margin:0px;
 }
 /* Game item styling */
 .game-item {
@@ -111,13 +111,7 @@ img {
 
 /* Apply transform on .package hover */
 
-h5 :hover,
- .game-item :hover,
-.package:hover img,
-.package:hover
-   {
-    transform: scale(1.1);
-}
+
 
 header{
 

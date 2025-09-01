@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+
+.Items{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(221, 244, 220);
+    border-radius: 10px;
+    width: 90%;
+
+
+}
+
+header{
+
+display: flex;  
+
+width: 90%;
+    height: 100%;
+background-color: green;
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    color: #E0F2F1;
+    text-shadow: black 5px 5px 10px;
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+     font-family: 'Poppins', 'Times New Roman';
+font-weight: 700; /* 700 = bold */
+font-size: larger;
+}
+
+
+.Items:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        transition: transform 0.3s ease;
+
+}
+img{
+    cursor: pointer;
+   padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+width: 90%;
+}
+
+.GamePassGrid{
+
+width: 100%;
+    display: grid;
+        grid-template-columns: repeat(2, 1fr);
+gap: 10px;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #16ac16;
+    margin: 0;
+}
+div{
+    margin-left: 5px;
+}

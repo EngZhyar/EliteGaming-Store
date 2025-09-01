@@ -23,6 +23,15 @@ justify-content: center;
 }
 
 
+h3.writing{
+    text-align: center;
+    font-family: 'Poppins', 'Times New Roman';
+font-weight: bolder; /* 700 = bold */
+background-color: #c5cbd2;
+width: 100%;
+color: rgb(7, 112, 234);
+border-radius: 10px;
+}
 
 img {
     cursor: pointer;

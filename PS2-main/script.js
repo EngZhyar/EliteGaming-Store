@@ -12,7 +12,14 @@ const imagePaths = [
   "PS2 COVER/god of war 2.jpg",
    "PS2 COVER/black ps2 cover image.jpeg",
   "PS2 COVER/bully ps2 cover image.jpeg",
+"PS2 COVER/Mercenaries.png",
+  "PS2 COVER/Mercenaries 2.jpg",
+  "PS2 COVER/resident evil 4 ps2 cover image.jpg",
+      "PS2 COVER/red dead revolver.jpg",
 
+"PS2 COVER/spartan total warrior ps2 cover image.jpeg",
+
+  "PS2 COVER/007 agent under fire ps2 cover image.jpg",
 
 
   "PS2 COVER/Pro evolution soccer.jpg",
@@ -21,11 +28,11 @@ const imagePaths = [
   "PS2 COVER/Pro evolution soccer 4.png",
   "PS2 COVER/Pro evolution soccer 5.jpg",
   "PS2 COVER/Pro evolution soccer 6.jpg",
-    "PS2 COVER/Winning eleven pro evolution soccer 2007.jpg",
+  "PS2 COVER/Winning eleven pro evolution soccer 2007.jpg",
    "PS2 COVER/Pes 2008.jpg",
   "PS2 COVER/pes 2009.jpg",
   "PS2 COVER/PES 2010.jpg",
-    "PS2 COVER/pro evolution soccer 2011 ps2 cover image.jpg",
+  "PS2 COVER/pro evolution soccer 2011 ps2 cover image.jpg",
   "PS2 COVER/pes 2012 jalal.png",
   "PS2 COVER/pes 2012.jpg",
   "PS2 COVER/Pes 2013.jpg",
@@ -34,14 +41,7 @@ const imagePaths = [
   "PS2 COVER/pes 2025.png",
 
 
-    "PS2 COVER/Mercenaries.png",
-  "PS2 COVER/Mercenaries 2.jpg",
-  "PS2 COVER/resident evil 4 ps2 cover image.jpg",
-      "PS2 COVER/red dead revolver.jpg",
-
-"PS2 COVER/spartan total warrior ps2 cover image.jpeg",
-
-    "PS2 COVER/007 agent under fire ps2 cover image.jpg",
+    
 
   "PS2 COVER/007 from russia with love ps2 cover image.jpg",
   "PS2 COVER/007 quantum of solace ps2 cover image.jpg",

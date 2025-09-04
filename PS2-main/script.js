@@ -4,7 +4,6 @@ let currentPage = 1;
 // Array to simulate images in the "PS2 COVER" folder (replace with actual paths)
 const imagePaths = [
   "PS2 COVER/pes 2026.jpg",
-  "PS2 COVER/007 agent under fire ps2 cover image.jpg",
   "PS2 COVER/minecraft.jpg",
   "PS2 COVER/sega collection.jpg",
 
@@ -42,7 +41,8 @@ const imagePaths = [
 
 "PS2 COVER/spartan total warrior ps2 cover image.jpeg",
 
-  
+    "PS2 COVER/007 agent under fire ps2 cover image.jpg",
+
   "PS2 COVER/007 from russia with love ps2 cover image.jpg",
   "PS2 COVER/007 quantum of solace ps2 cover image.jpg",
   "PS2 COVER/24 the game ps2 cover image.jpg",
@@ -214,7 +214,6 @@ const imagePaths = [
   "PS2 COVER/shark tale ps2 cover image.jpg",
   "PS2 COVER/shellshock nam 67 ps2 cover image.jpeg",
   "PS2 COVER/Shrek 2.jpg",
-  "PS2 COVER/Shrek carnival craze party games.jpg",
   "PS2 COVER/Shrek smash n.jpg",
   "PS2 COVER/Shrek super slam.jpg",
   "PS2 COVER/Shrek the third.jpg",

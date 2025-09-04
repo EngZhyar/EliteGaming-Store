@@ -5,7 +5,7 @@ let currentPage = 1;
 const imagePaths = [
   "PS2 COVER/pes 2026.jpg",
   "PS2 COVER/minecraft.jpg",
-  "PS2 COVER/sega collection.jpg",
+  "PS2 COVER/sega collection.jpeg",
 
 
   "PS2 COVER/god of war ps2 cover image.jpeg",

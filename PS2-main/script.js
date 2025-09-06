@@ -168,7 +168,6 @@ const imagePaths = [
   "PS2 COVER/medal of honor rising sun ps2 cover image.jpg",
   "PS2 COVER/medal of honor vanguard ps2 cover image.jpg",
   "PS2 COVER/Metal gear solid 2.jpg",
-  "PS2 COVER/Metal gear solid 3 snake eater.jpg",
   "PS2 COVER/Metal gear solid 3 subsistence.jpg",
   "PS2 COVER/Midnight club 3.jpg",
   "PS2 COVER/monster inc ps2 cover image.jpg",

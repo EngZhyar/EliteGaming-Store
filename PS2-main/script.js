@@ -82,9 +82,6 @@ const imagePaths = [
   "PS2 COVER/commandos strike force ps2 cover image.jpeg",
   "PS2 COVER/conflict desert storm 1.jpg",
   "PS2 COVER/conflict desert storm 2 ps2 cover image.jpg",
-  "PS2 COVER/conflict desert storm global terror ps2 cover image.jpg",
- 
-  "PS2 COVER/conflict vietnam ps2 cover image.jpeg",
   "PS2 COVER/crash bandicoot wrath of cortex ps2 cover image.jpeg",
   "PS2 COVER/crash mind of mutant ps2 cover image.jpg",
   "PS2 COVER/crash nitro kart ps2 cover image.jpg",
@@ -222,8 +219,6 @@ const imagePaths = [
   "PS2 COVER/sly 3 ps2 cover image.jpg",
   "PS2 COVER/sniper elite ps2 cover image.jpeg",
   "PS2 COVER/Socom 1.jpg",
-  "PS2 COVER/socom 2.jpg",
-  "PS2 COVER/Socom 3.jpg",
   
   "PS2 COVER/spider man 1 ps2 cover image.jpeg",
   "PS2 COVER/spider man 2 ps2 cover image.jpg",

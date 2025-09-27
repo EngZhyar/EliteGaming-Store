@@ -248,7 +248,6 @@ const imagePaths = [
   "PS2 COVER/terminator 3 the redemption ps2 cover image.jpg",
   "PS2 COVER/The cat in the hat.jpg",
   "PS2 COVER/the chronicles of narmia the ps2 cover image.jpeg",
-  "PS2 COVER/The godfather.jpg",
   "PS2 COVER/The history channel civil war a nation divided.jpg",
   "PS2 COVER/the history channel of battle ps2 cover image.png",
   "PS2 COVER/the incredible hulk ps2 cover image.jpg",

@@ -1,4 +1,4 @@
-const imagesPerPage = 12;
+const imagesPerPage = 21;
 let currentPage = 1;
 
 // Array to simulate images in the "PS2 COVER" folder (replace with actual paths)

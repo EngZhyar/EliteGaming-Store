@@ -258,7 +258,6 @@ const imagePaths = [
   "PS2 COVER/The lord of the rings aragons quest.jpg",
   "PS2 COVER/The lord of the rings the third age.jpg",
   "PS2 COVER/the punisher ps2 cover image.jpg",
-  "PS2 COVER/the sopranos road to respect ps2 cover image.png",
   "PS2 COVER/time splitters ps2 cover image.jpeg",
   "PS2 COVER/TMNT 2 battle nexus.jpg",
   "PS2 COVER/TMNT.png",

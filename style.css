@@ -1,3 +1,6 @@
+@media (max-width:630px){
+
+
 /* Reset margin and padding */
 * {
     margin: 0;
@@ -5,6 +8,8 @@
     box-sizing: border-box;
     
 }
+
+
 
 /* Body styling */
 body {
@@ -68,9 +73,9 @@ img.land {
 header{
 
     display: flex;
-    width: 100%;
+    width: 90%;
     height: 100%;
-    background: url("Playstation\ Games/Assets/Resident evil 4 remake.jpg");
+    background: #003791;
     background-repeat: no-repeat;
     background-position: 100% 0%;
     color: #E0F2F1;
@@ -83,4 +88,104 @@ header{
      font-family: 'Poppins', 'Times New Roman';
 font-weight: 700; /* 700 = bold */
 font-size: larger;
+}
+
+
+  
+}
+
+
+
+@media (min-width:630px){
+
+
+/* Reset margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+div.fullBody{
+display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 4 items per row */
+    gap: 20px; /* Space between the items */
+    width: 100%;
+
+}
+
+
+div.item   {
+  width: 150%;
+  margin-left: 20px;
+}
+
+h3.writing{
+    text-align: center;
+    font-family:'Times New Roman';
+font-weight: 700; /* 700 = bold */
+background-color: #c5cbd2;
+width: 50%;
+color: rgb(7, 112, 234);
+border-radius: 10px;
+
+}
+
+.fix{
+    margin-left: 20px;
+}
+
+img {
+    cursor: pointer;
+   width: 50%;
+   padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+
+}
+img:hover{
+
+    transform: scale(1.1);
+}
+.firstRow{
+    padding: 10px;
+    margin: 10px;
+        transition: transform 0.3s ease;
+
+}
+
+img.land {
+    width: 50%;
+    margin-left: 20px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+
+}
+
+header{
+
+    display: flex;
+    width: 90%;
+    height: 100%;
+    background-color: #003791;
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    color: #E0F2F1;
+    text-shadow: black 5px 5px 10px;
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+     font-family: 'Poppins', 'Times New Roman';
+font-weight: 700; /* 700 = bold */
+font-size: larger;
+}
+
+
+  
 }

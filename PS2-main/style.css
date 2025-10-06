@@ -50,7 +50,7 @@ header{
     display: flex;
     width: 100%;
     height: 100%;
-    background: url("Resident evil 4\ remake.jpg");
+    background-color:#003791 ;
     background-repeat: no-repeat;
     background-position: 100% 0%;
     color: #E0F2F1;
@@ -116,3 +116,11 @@ button:hover {
     font-size: 18px;
     color: black;
 }
+
+
+
+@media (min-width: 800px) {
+.game-grid {
+    grid-template-columns: repeat(5, 1fr); /* 4 items per row */
+    
+}}
